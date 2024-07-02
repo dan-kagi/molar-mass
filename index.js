@@ -101,7 +101,7 @@ const questions = [
     {
         id: "10",
         question: "Cerca de 60% do corpo humano é composto por água. Determine a quantidade de moléculas de água em uma pessoa de 70 Kg. Dados: Massa Molar da água = 18 g / mol, 1 Kg - 1000 g.",
-        image: "./public/images/fig10.png",
+        image: "",
         options: [
             {isCorrect: true, answer:"2333 mol de água"},
             {isCorrect:false, answer:"0,2333 mol de água"},

@@ -45,7 +45,7 @@ const questions = [
     },
     {
         id: "5",
-        question: "Qual é a quantidade de átomos de alumínio em 684 g de sulfato de alumínio. Dados: Al = 27 u, S = 32 u e O = 32 u.",
+        question: "Qual é a quantidade de átomos de alumínio em 684 g de sulfato de alumínio. Dados: Al = 27 u, S = 32 u e O = 16 u.",
         image: "./public/images/fig5.png",
         options: [
             {isCorrect: true, answer:"4 mol de Al"},

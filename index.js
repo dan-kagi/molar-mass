@@ -34,7 +34,7 @@ const questions = [
     },
     {
         id: "4",
-        question: "Determine a quantidade de ácido cítrico em 0,8 mol desta substância. Dados: C = 12 u, H = 1 u e O = 16 u." ,
+        question: "Determine a massa de ácido cítrico em 0,8 mol desta substância. Dados: C = 12 u, H = 1 u e O = 16 u." ,
         image: "./public/images/fig4.png",
         options: [
             {isCorrect: true, answer:"153,6 g de ácido cítrico"},

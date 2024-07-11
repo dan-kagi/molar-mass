@@ -89,9 +89,9 @@ const questions = [
       'Butano é um gás presente no gás cozinha, juntamente com etano e propano. Qual seria a quantidade de átomos de carbono em 29 g de butano? Dados: C = 12 u e H = 1 u.',
     image: './public/images/fig8.png',
     options: [
-      { isCorrect: true, answer: '4,00 mol de C' },
+      { isCorrect: true, answer: '2,00 mol de C' },
       { isCorrect: false, answer: '0,250 mol de C' },
-      { isCorrect: false, answer: '2,00 mol de C' },
+      { isCorrect: false, answer: '4,00 mol de C' },
       { isCorrect: false, answer: '2,125 mol de C' },
     ],
   },
